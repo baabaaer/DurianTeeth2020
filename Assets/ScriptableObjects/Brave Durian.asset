@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef2f9c8381615f4d88077f36f802678, type: 3}
+  m_Name: Brave Durian
+  m_EditorClassIdentifier: 
+  objectName: Brave Durian
+  description: 
+  sprite: {fileID: 0}
+  baseAttackValue: 0
+  baseSpeed: 0
+  baseBravery: 0
+  spawnLocation: {x: 0, y: 0, z: 0}
+  parent: {fileID: 0}
+  prefab: {fileID: 3239017263965451061, guid: df3d3d7a1e7a5d4409cb89cffeca8c76, type: 3}
